@@ -1,4 +1,4 @@
-### Technologies and Tools I use
+# Technologies and Tools I use
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -13,18 +13,18 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%be1e2d.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Projects
- <!--
-**JakubDevv/JakubDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+# [Store Application](https://github.com/uzytkownik/example-repo)
+### [Back-End-Microservices](docs/CONTRIBUTING.md) | [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
 
-Here are some ideas to get you started:
+An online store application that allows users to add and manage products through an administration panel, app allows also users to register, login, place orders, track orders status and manage stats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Redis, AWS S3, Liquibase, Docker**
+
+# [Chat Application](docs/CONTRIBUTING.md)
+### [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
+
+A chat application that allows users to create chats and talk with each other at a real time.
+
+Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
+
