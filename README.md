@@ -1,4 +1,4 @@
-# Technologies and Tools I use
+# Technologies and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -24,7 +24,7 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 # [Chat Application](docs/CONTRIBUTING.md)
 ### [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
 
-A chat application that allows users to create chats and talk with each other at a real time.
+A chat application that allows users to create chats and talk to each other in real time. Users can track their activity
 
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
 
