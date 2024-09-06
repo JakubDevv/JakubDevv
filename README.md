@@ -21,6 +21,8 @@ An online store application that allows users to add and manage products through
 
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Redis, AWS S3, Liquibase, Docker**
 
+![Store_Home](https://github.com/user-attachments/assets/e581a995-6bb9-4204-a2bb-89e023739edc)
+
 # [Chat Application](docs/CONTRIBUTING.md)
 ### [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
 
@@ -28,3 +30,4 @@ A chat application that allows users to create chats and talk to each other in r
 
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
 
+![Chat](https://github.com/user-attachments/assets/864ec9e0-63ce-465f-bd8f-60d97264d28d)
