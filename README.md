@@ -14,7 +14,7 @@
 
 # Projects
 # [Store Application](https://github.com/uzytkownik/example-repo)
-### [Back-End-Microservices](docs/CONTRIBUTING.md) | [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
+### [Back-End-Microservices](https://github.com/JakubDevv/Store-Microservices-BackEnd) | [Back-End](https://github.com/JakubDevv/Store-BackEnd) | [Front-End](https://github.com/JakubDevv/Store-FrontEnd)
 
 An online store application that allows users to add and manage products through an administration panel, app allows also users to register, login, place orders, track orders status and manage stats.
 
@@ -23,7 +23,7 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 ![Store_Home](https://github.com/user-attachments/assets/e581a995-6bb9-4204-a2bb-89e023739edc)
 
 # [Chat Application](docs/CONTRIBUTING.md)
-### [Back-End](docs/CONTRIBUTING.md) | [Front-End](docs/CONTRIBUTING.md)
+### [Back-End](https://github.com/JakubDevv/Chat-BackEnd) | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
 
 A chat application that allows users to create chats and talk to each other in real time. Users can track their activity
 
