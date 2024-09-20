@@ -16,7 +16,7 @@
 # [Store Application](https://github.com/uzytkownik/example-repo)
 ### [Back-End-Microservices](https://github.com/JakubDevv/Store-Microservices-BackEnd) | [Back-End](https://github.com/JakubDevv/Store-BackEnd) | [Front-End](https://github.com/JakubDevv/Store-FrontEnd)
 
-An online store application that allows users to add and manage products through an administration panel, app allows also users to register, login, place orders, track orders status and manage stats.
+An online store application that allows users to add and manage products through an administration panel. The app also allows users to register, log in, place orders, track order status, and view/manage statistics.
 
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Redis, AWS S3, Liquibase, Docker**
 
@@ -25,7 +25,7 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 # [Chat Application](docs/CONTRIBUTING.md)
 ### [Back-End](https://github.com/JakubDevv/Chat-BackEnd) | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
 
-A chat application that allows users to create chats and talk to each other in real time. Users can track their activity
+A chat application that allows users to create chat rooms and communicate with each other in real time. Users can also track their chat activity
 
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
 
