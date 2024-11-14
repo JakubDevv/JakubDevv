@@ -23,7 +23,32 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 ![Store_Home](https://github.com/user-attachments/assets/e581a995-6bb9-4204-a2bb-89e023739edc)
 
 # [Chat Application](docs/CONTRIBUTING.md)
-### [Back-End](https://github.com/JakubDevv/Chat-BackEnd) | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
+### [Back-End:v2 (Nearly Complete)](https://github.com/JakubDevv/Chat-BackEnd)  | [Back-End:v1](https://github.com/JakubDevv/Chat-BackEnd)  | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
+
+Back-End v2 is designed with a modular monolith architecture
+
+```
+Chat-App                  
+├── Messages              
+│   ├── domain           
+│   ├── application      
+│   └── infrastructure   
+│                        
+├── User              
+│   ├── domain           
+│   ├── application      
+│   └── infrastructure   
+│   
+├── Api              
+│   ├── controller
+│   └── security
+│
+├── Notifications              
+│   └── service                  
+│
+└── Shared                      
+    └── common resources  
+```
 
 A chat application that allows users to create chat rooms and communicate with each other in real time. Users can also track their chat activity
 
