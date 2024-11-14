@@ -22,8 +22,10 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 
 ![Store_Home](https://github.com/user-attachments/assets/e581a995-6bb9-4204-a2bb-89e023739edc)
 
+![Baza Store](https://github.com/user-attachments/assets/20b881f0-1b96-4791-9f9d-0a8a016bf95d)
+
 # [Chat Application](docs/CONTRIBUTING.md)
-### [Back-End:v2 (Nearly Complete)](https://github.com/JakubDevv/Chat-BackEnd)  | [Back-End:v1](https://github.com/JakubDevv/Chat-BackEnd)  | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
+### [Back-End:v2 (Nearly Complete)](https://github.com/JakubDevv/Chat-Modular-Monolith-BackEnd)  | [Back-End:v1](https://github.com/JakubDevv/Chat-BackEnd)  | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
 
 Back-End v2 is designed with a modular monolith architecture
 
@@ -55,3 +57,5 @@ A chat application that allows users to create chat rooms and communicate with e
 Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
 
 ![Chat](https://github.com/user-attachments/assets/864ec9e0-63ce-465f-bd8f-60d97264d28d)
+
+![Baza Chat](https://github.com/user-attachments/assets/cb5c81aa-95a3-4145-9d79-1c97791d087c)
