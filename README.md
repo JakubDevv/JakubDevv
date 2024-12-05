@@ -22,6 +22,8 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 
 ![Store_Home](https://github.com/user-attachments/assets/e581a995-6bb9-4204-a2bb-89e023739edc)
 
+![Store_Dashboard](https://github.com/user-attachments/assets/3fac2c2a-a9db-44b6-bdd5-9833d56a1e8d)
+
 ![Baza Store](https://github.com/user-attachments/assets/20b881f0-1b96-4791-9f9d-0a8a016bf95d)
 
 # [Chat Application](docs/CONTRIBUTING.md)
