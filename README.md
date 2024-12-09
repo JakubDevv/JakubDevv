@@ -27,6 +27,10 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 # [Chat Application](docs/CONTRIBUTING.md)
 ### [Back-End:v2 (Nearly Complete)](https://github.com/JakubDevv/Chat-Modular-Monolith-BackEnd)  | [Back-End:v1](https://github.com/JakubDevv/Chat-BackEnd)  | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
 
+A chat application that allows users to create chat rooms and communicate with each other in real time. Users can also track their chat activity
+
+Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
+
 Back-End v2 is designed with a modular monolith architecture
 
 ```
@@ -51,10 +55,6 @@ Chat-App
 └── Shared                      
     └── common resources  
 ```
-
-A chat application that allows users to create chat rooms and communicate with each other in real time. Users can also track their chat activity
-
-Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, AWS S3, Liquibase, Docker, WebSockets, Lombok**
 
 ![Chat](https://github.com/user-attachments/assets/864ec9e0-63ce-465f-bd8f-60d97264d28d)
 
