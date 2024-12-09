@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Projects
-# [Store Application](https://github.com/uzytkownik/example-repo)
+# Store Application
 ### [Back-End-Microservices](https://github.com/JakubDevv/Store-Microservices-BackEnd) | [Back-End](https://github.com/JakubDevv/Store-BackEnd) | [Front-End](https://github.com/JakubDevv/Store-FrontEnd)
 
 An online store application that allows users to add and manage products through an administration panel. The app also allows users to register, log in, place orders, track order status, and view/manage statistics.
@@ -24,7 +24,7 @@ Stack: **Angular, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Post
 
 ![Baza Store](https://github.com/user-attachments/assets/20b881f0-1b96-4791-9f9d-0a8a016bf95d)
 
-# [Chat Application](docs/CONTRIBUTING.md)
+# Chat Application
 ### [Back-End:v2 (Nearly Complete)](https://github.com/JakubDevv/Chat-Modular-Monolith-BackEnd)  | [Back-End:v1](https://github.com/JakubDevv/Chat-BackEnd)  | [Front-End](https://github.com/JakubDevv/Chat-FrontEnd)
 
 A chat application that allows users to create chat rooms and communicate with each other in real time. Users can also track their chat activity
